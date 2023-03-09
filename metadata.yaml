@@ -1,0 +1,45 @@
+_repo: Good-housing-that-pays-b-A-study-of-the-aims-and-the-accomplishment-of-the-Octavia-Hill-Assoc__70068
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sargent, John Singer
+    alias: Sargent, John S.
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '36606'
+    url: http://www.gutenberg.org/2009/agents/36606
+    wikipedia: https://en.wikipedia.org/wiki/John_Singer_Sargent
+creator:
+  author:
+    agent_name: Waldo, Fullerton L. (Fullerton Leonard)
+    alias: Waldo, Fullerton Leonard
+    birthdate: 1877
+    deathdate: 1933
+    gutenberg_agent_id: '35639'
+    url: http://www.gutenberg.org/2009/agents/35639
+description: ''
+gutenberg_issued: '2023-02-18'
+identifiers:
+  gutenberg: '70068'
+  lccn: '17028206'
+language: en
+pgterms:marc904: https://archive.org/details/goodhousingthatp00waldrich
+pgterms:marc905: 20210520102429waldo
+pgterms:marc906: '1917'
+pgterms:marc907: UA
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUkraine :$bThe Harper press, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Working class -- Dwellings'
+- !lcsh 'Octavia Hill Association'
+- !lcsh 'Tenement-houses -- Pennsylvania -- Philadelphia'
+- !lcsh 'Housing -- Pennsylvania -- Philadelphia'
+- !lcc 'HD'
+- GITenberg
+title: "Good housing that pays\r\n$b A study of the aims and the accomplishment of\
+  \ the Octavia Hill Association, 1896-1917"
+url: http://www.gutenberg.org/ebooks/70068
